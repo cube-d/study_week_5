@@ -1,6 +1,5 @@
 
 ## I/O 입출력
-
 ### 입출력이 무엇인가
 * A 프로그램에서 B 프로그램으로 데이터를 주고 받는 경우 입력(Input)과 출력(Output)이 반복적으로 일어난다. 
 * 사용자가 프로그램을 통해 키보드/마우스/파일 입력(Input)과 모니터/파일 출력(Output)이 가능하다.
@@ -14,10 +13,25 @@
 ### 입출력(I/O) 스트림(Stream)
 * 입출력으로 데이터를 주고받기 위해서는 Stream을 생성해야 한다.
 * Stream은 무조건 단방향이기때문에 데이터를 주고 받기 위해서는 입/출력 Stream을 각각 생성하여 사용하여야 한다.
+
+* 프로그램 데이터 입출력(I/O)
+<img src="https://t1.daumcdn.net/cfile/tistory/99D5434A5C1DFAFF0D?download" width="90%"></img>
+
+* 사용자 데이터 입출력(I/O)
 <img src="https://t1.daumcdn.net/cfile/tistory/995E91345C1DF8E613?download" width="90%"></img>
 
-## 2. 멀티쓰레딩
-### 1. 멀티쓰레딩의 장점
+## I/O 입출력 종류
+### Input Stream / Output Stream 종류 및 상속
+<img src="http://ccm3.net/wp-content/uploads/2018011801.png" width="90%"></img>
+
+
+
+
+
+
+
+
+
 * CPU 사용률 향상
 * 자원의 효율적 사용
 * 사용자 응답성 향상

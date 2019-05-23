@@ -13,8 +13,8 @@
 
 ### 입출력(I/O) 스트림(Stream)
 * 입출력으로 데이터를 주고받기 위해서는 Stream을 생성해야 한다.
-* Stream은 무조건 단방향이기 때문에 데이터를 주고 받기 위해서는 입력/출력 Stream을 각각 생성하여 사용하여야 한다.
-
+* Stream은 무조건 단방향이기때문에 데이터를 주고 받기 위해서는 입/출력 Stream을 각각 생성하여 사용하여야 한다.
+<img src="https://t1.daumcdn.net/cfile/tistory/995E91345C1DF8E613?download" width="90%"></img>
 
 ## 2. 멀티쓰레딩
 ### 1. 멀티쓰레딩의 장점

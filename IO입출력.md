@@ -21,8 +21,11 @@
 <img src="https://t1.daumcdn.net/cfile/tistory/995E91345C1DF8E613?download" width="90%"></img>
 
 ## I/O 입출력 종류
-### Input Stream / Output Stream 종류 및 상속
-<img src="http://ccm3.net/wp-content/uploads/2018011801.png" width="90%"></img>
+### Byte 기반의 처리하는 I/O Stream 종류 및 상속
+<img src="http://ccm3.net/wp-content/uploads/2018011801.png" width="90%" height = "50%"></img>
+* I/O Stream은 데이터 종류에 따라 class를 적절히 선택하여 사용하여야 한다.
+* I/O Stream Class는 InputStreamClass와 OutputStreamClass가 대칭되어 사용된다.
+* I/O Stream Class의 최상위 Class는 추상클래스로 구현되어 있으며, InputStream/OutStream이다.
 
 
 
